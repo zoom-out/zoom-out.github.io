@@ -1,6 +1,6 @@
 # Fuego
 
-## License
+## LICENCIA
 
 Copyright (c) filename.jpg@bk.ru
 All rights reserved.
